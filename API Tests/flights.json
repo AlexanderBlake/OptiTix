@@ -1,0 +1,1090 @@
+{
+  "search_metadata": {
+    "id": "6637e8f233b236522e166892",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7d6ac45c7cd3b8e4/6637e8f233b236522e166892.json",
+    "created_at": "2024-05-05 20:15:46 UTC",
+    "processed_at": "2024-05-05 20:15:46 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&q=Flights+to+AUS+from+LAS+on+2024-10-20+through+2024-10-20",
+    "raw_html_file": "https://serpapi.com/searches/7d6ac45c7cd3b8e4/6637e8f233b236522e166892.html",
+    "prettify_html_file": "https://serpapi.com/searches/7d6ac45c7cd3b8e4/6637e8f233b236522e166892.prettify",
+    "total_time_taken": 1.55
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "departure_id": "LAS",
+    "arrival_id": "AUS",
+    "outbound_date": "2024-10-20",
+    "return_date": "2024-10-20"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 13:34"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 18:28"
+          },
+          "duration": 174,
+          "airplane": "Airbus A320neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 3646",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 114 kg"
+          ]
+        }
+      ],
+      "total_duration": 174,
+      "carbon_emissions": {
+        "this_flight": 114000,
+        "typical_for_this_route": 204000,
+        "difference_percent": -44
+      },
+      "price": 278,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ1pHT1RNMk5EWWFDd2piMkFFUUFob0RWVk5FT0J4dzI5Z0IiLFtbIkxBUyIsIjIwMjQtMTAtMjAiLCJBVVMiLG51bGwsIkY5IiwiMzY0NiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 06:10"
+          },
+          "arrival_airport": {
+            "name": "Phoenix Sky Harbor International Airport",
+            "id": "PHX",
+            "time": "2024-10-20 07:27"
+          },
+          "duration": 77,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1808",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 67 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Phoenix Sky Harbor International Airport",
+            "id": "PHX",
+            "time": "2024-10-20 08:50"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 13:14"
+          },
+          "duration": 144,
+          "airplane": "Airbus A319",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 844",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 161 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 83,
+          "name": "Phoenix Sky Harbor International Airport",
+          "id": "PHX"
+        }
+      ],
+      "total_duration": 304,
+      "carbon_emissions": {
+        "this_flight": 229000,
+        "typical_for_this_route": 204000,
+        "difference_percent": 12
+      },
+      "price": 681,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ3hCUVRFNE1EaDhRVUU0TkRRYUN3amNrd1FRQWhvRFZWTkVPQnh3M0pNRSIsW1siTEFTIiwiMjAyNC0xMC0yMCIsIlBIWCIsbnVsbCwiQUEiLCIxODA4Il0sWyJQSFgiLCIyMDI0LTEwLTIwIiwiQVVTIixudWxsLCJBQSIsIjg0NCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 07:12"
+          },
+          "arrival_airport": {
+            "name": "San Diego International Airport",
+            "id": "SAN",
+            "time": "2024-10-20 08:20"
+          },
+          "duration": 68,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 3337",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "San Diego International Airport",
+            "id": "SAN",
+            "time": "2024-10-20 10:13"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 15:09"
+          },
+          "duration": 176,
+          "airplane": "Boeing 737MAX 9 Passenger",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 530",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 202 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 113,
+          "name": "San Diego International Airport",
+          "id": "SAN"
+        }
+      ],
+      "total_duration": 357,
+      "carbon_emissions": {
+        "typical_for_this_route": 204000
+      },
+      "price": 731,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ3hCVXpNek16ZDhRVk0xTXpBYUN3aXl1Z1FRQWhvRFZWTkVPQnh3c3JvRSIsW1siTEFTIiwiMjAyNC0xMC0yMCIsIlNBTiIsbnVsbCwiQVMiLCIzMzM3Il0sWyJTQU4iLCIyMDI0LTEwLTIwIiwiQVVTIixudWxsLCJBUyIsIjUzMCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 06:10"
+          },
+          "arrival_airport": {
+            "name": "Salt Lake City International Airport",
+            "id": "SLC",
+            "time": "2024-10-20 08:40"
+          },
+          "duration": 90,
+          "airplane": "Airbus A321",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 2674",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 79 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Salt Lake City International Airport",
+            "id": "SLC",
+            "time": "2024-10-20 09:25"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 13:11"
+          },
+          "duration": 166,
+          "airplane": "Airbus A319",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 2705",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 177 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 45,
+          "name": "Salt Lake City International Airport",
+          "id": "SLC"
+        }
+      ],
+      "total_duration": 301,
+      "carbon_emissions": {
+        "this_flight": 257000,
+        "typical_for_this_route": 204000,
+        "difference_percent": 26
+      },
+      "price": 887,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZzFFVERJMk56UjhSRXd5TnpBMUdnc0lvclFGRUFJYUExVlRSRGdjY0tLMEJRPT0iLFtbIkxBUyIsIjIwMjQtMTAtMjAiLCJTTEMiLG51bGwsIkRMIiwiMjY3NCJdLFsiU0xDIiwiMjAyNC0xMC0yMCIsIkFVUyIsbnVsbCwiREwiLCIyNzA1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 07:45"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 12:23"
+          },
+          "duration": 158,
+          "airplane": "Airbus A320",
+          "airline": "Spirit",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/NK.png",
+          "travel_class": "Economy",
+          "flight_number": "NK 540",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Wi-Fi for a fee",
+            "Carbon emissions estimate: 160 kg"
+          ]
+        }
+      ],
+      "total_duration": 158,
+      "carbon_emissions": {
+        "this_flight": 161000,
+        "typical_for_this_route": 204000,
+        "difference_percent": -21
+      },
+      "price": 965,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/NK.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ1ZPU3pVME1Cb0xDTXp4QlJBQ0dnTlZVMFE0SEhETThRVT0iLFtbIkxBUyIsIjIwMjQtMTAtMjAiLCJBVVMiLG51bGwsIk5LIiwiNTQwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 10:25"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 15:10"
+          },
+          "duration": 165,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 921",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 130 kg"
+          ]
+        }
+      ],
+      "total_duration": 165,
+      "carbon_emissions": {
+        "this_flight": 130000,
+        "typical_for_this_route": 204000,
+        "difference_percent": -36
+      },
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ1ZYVGpreU1UZ2MiLFtbIkxBUyIsIjIwMjQtMTAtMjAiLCJBVVMiLG51bGwsIldOIiwiOTIxIl1dXQ=="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 06:10"
+          },
+          "arrival_airport": {
+            "name": "Phoenix Sky Harbor International Airport",
+            "id": "PHX",
+            "time": "2024-10-20 07:27"
+          },
+          "duration": 77,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1808",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 67 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Phoenix Sky Harbor International Airport",
+            "id": "PHX",
+            "time": "2024-10-20 15:35"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 19:58"
+          },
+          "duration": 143,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 803",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 135 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 488,
+          "name": "Phoenix Sky Harbor International Airport",
+          "id": "PHX"
+        }
+      ],
+      "total_duration": 708,
+      "carbon_emissions": {
+        "this_flight": 203000,
+        "typical_for_this_route": 204000,
+        "difference_percent": 0
+      },
+      "price": 618,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ3hCUVRFNE1EaDhRVUU0TURNYUN3aVo0Z01RQWhvRFZWTkVPQnh3bWVJRCIsW1siTEFTIiwiMjAyNC0xMC0yMCIsIlBIWCIsbnVsbCwiQUEiLCIxODA4Il0sWyJQSFgiLCIyMDI0LTEwLTIwIiwiQVVTIixudWxsLCJBQSIsIjgwMyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 05:00"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-10-20 09:35"
+          },
+          "duration": 155,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2649",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 155 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-10-20 12:00"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 13:01"
+          },
+          "duration": 61,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1186",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 56 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 145,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 361,
+      "carbon_emissions": {
+        "this_flight": 212000,
+        "typical_for_this_route": 204000,
+        "difference_percent": 4
+      },
+      "price": 677,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZzFCUVRJMk5EbDhRVUV4TVRnMkdnc0l6SkFFRUFJYUExVlRSRGdjY015UUJBPT0iLFtbIkxBUyIsIjIwMjQtMTAtMjAiLCJERlciLG51bGwsIkFBIiwiMjY0OSJdLFsiREZXIiwiMjAyNC0xMC0yMCIsIkFVUyIsbnVsbCwiQUEiLCIxMTg2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 06:50"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-10-20 11:40"
+          },
+          "duration": 170,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 654",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 155 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-10-20 14:00"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 15:00"
+          },
+          "duration": 60,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 795",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 56 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 140,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 370,
+      "carbon_emissions": {
+        "this_flight": 212000,
+        "typical_for_this_route": 204000,
+        "difference_percent": 4
+      },
+      "price": 677,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ3RCUVRZMU5IeEJRVGM1TlJvTENNeVFCQkFDR2dOVlUwUTRISERNa0FRPSIsW1siTEFTIiwiMjAyNC0xMC0yMCIsIkRGVyIsbnVsbCwiQUEiLCI2NTQiXSxbIkRGVyIsIjIwMjQtMTAtMjAiLCJBVVMiLG51bGwsIkFBIiwiNzk1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 08:00"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2024-10-20 09:13"
+          },
+          "duration": 73,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2690",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 59 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2024-10-20 11:30"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 16:36"
+          },
+          "duration": 186,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 797",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 185 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 137,
+          "name": "Los Angeles International Airport",
+          "id": "LAX"
+        }
+      ],
+      "total_duration": 396,
+      "carbon_emissions": {
+        "this_flight": 245000,
+        "typical_for_this_route": 204000,
+        "difference_percent": 20
+      },
+      "price": 686,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ3hCUVRJMk9UQjhRVUUzT1RjYUN3aXBsd1FRQWhvRFZWTkVPQnh3cVpjRSIsW1siTEFTIiwiMjAyNC0xMC0yMCIsIkxBWCIsbnVsbCwiQUEiLCIyNjkwIl0sWyJMQVgiLCIyMDI0LTEwLTIwIiwiQVVTIixudWxsLCJBQSIsIjc5NyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 07:55"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-10-20 12:45"
+          },
+          "duration": 170,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1908",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 155 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-10-20 14:00"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 15:00"
+          },
+          "duration": 60,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 795",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 56 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 75,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 305,
+      "carbon_emissions": {
+        "this_flight": 212000,
+        "typical_for_this_route": 204000,
+        "difference_percent": 4
+      },
+      "price": 717,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ3hCUVRFNU1EaDhRVUUzT1RVYUN3anNyd1FRQWhvRFZWTkVPQnh3N0s4RSIsW1siTEFTIiwiMjAyNC0xMC0yMCIsIkRGVyIsbnVsbCwiQUEiLCIxOTA4Il0sWyJERlciLCIyMDI0LTEwLTIwIiwiQVVTIixudWxsLCJBQSIsIjc5NSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 05:30"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 10:05"
+          },
+          "duration": 155,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 1106",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 174 kg"
+          ]
+        }
+      ],
+      "total_duration": 155,
+      "carbon_emissions": {
+        "this_flight": 175000,
+        "typical_for_this_route": 204000,
+        "difference_percent": -14
+      },
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ1pYVGpFeE1EWTRIQT09IixbWyJMQVMiLCIyMDI0LTEwLTIwIiwiQVVTIixudWxsLCJXTiIsIjExMDYiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 08:00"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 12:40"
+          },
+          "duration": 160,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 4666",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 154 kg"
+          ]
+        }
+      ],
+      "total_duration": 160,
+      "carbon_emissions": {
+        "this_flight": 154000,
+        "typical_for_this_route": 204000,
+        "difference_percent": -25
+      },
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ1pYVGpRMk5qWTRIQT09IixbWyJMQVMiLCIyMDI0LTEwLTIwIiwiQVVTIixudWxsLCJXTiIsIjQ2NjYiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Harry Reid International Airport",
+            "id": "LAS",
+            "time": "2024-10-20 14:45"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-10-20 19:30"
+          },
+          "duration": 165,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 3611",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 174 kg"
+          ]
+        }
+      ],
+      "total_duration": 165,
+      "carbon_emissions": {
+        "this_flight": 175000,
+        "typical_for_this_route": 204000,
+        "difference_percent": -14
+      },
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "departure_token": "WyJDalJJWTBjMFluQktaRm96YjJOQlNWcFRkWGRDUnkwdExTMHRMUzB0ZVhOaWJua3hPRUZCUVVGQlIxa3pObEJOUzFVd1Z6aEJFZ1pYVGpNMk1URTRIQT09IixbWyJMQVMiLCIyMDI0LTEwLTIwIiwiQVVTIixudWxsLCJXTiIsIjM2MTEiXV1d"
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 278,
+    "price_level": "high",
+    "typical_price_range": [
+      55,
+      160
+    ],
+    "price_history": [
+      [
+        1709712000,
+        702
+      ],
+      [
+        1709798400,
+        702
+      ],
+      [
+        1709884800,
+        702
+      ],
+      [
+        1709971200,
+        702
+      ],
+      [
+        1710057600,
+        702
+      ],
+      [
+        1710140400,
+        702
+      ],
+      [
+        1710226800,
+        702
+      ],
+      [
+        1710313200,
+        702
+      ],
+      [
+        1710399600,
+        678
+      ],
+      [
+        1710486000,
+        678
+      ],
+      [
+        1710572400,
+        678
+      ],
+      [
+        1710658800,
+        595
+      ],
+      [
+        1710745200,
+        680
+      ],
+      [
+        1710831600,
+        680
+      ],
+      [
+        1710918000,
+        680
+      ],
+      [
+        1711004400,
+        534
+      ],
+      [
+        1711090800,
+        407
+      ],
+      [
+        1711177200,
+        407
+      ],
+      [
+        1711263600,
+        407
+      ],
+      [
+        1711350000,
+        402
+      ],
+      [
+        1711436400,
+        402
+      ],
+      [
+        1711522800,
+        271
+      ],
+      [
+        1711609200,
+        271
+      ],
+      [
+        1711695600,
+        271
+      ],
+      [
+        1711782000,
+        271
+      ],
+      [
+        1711868400,
+        519
+      ],
+      [
+        1711954800,
+        519
+      ],
+      [
+        1712041200,
+        524
+      ],
+      [
+        1712127600,
+        524
+      ],
+      [
+        1712214000,
+        529
+      ],
+      [
+        1712300400,
+        529
+      ],
+      [
+        1712386800,
+        529
+      ],
+      [
+        1712473200,
+        529
+      ],
+      [
+        1712559600,
+        529
+      ],
+      [
+        1712646000,
+        529
+      ],
+      [
+        1712732400,
+        529
+      ],
+      [
+        1712818800,
+        535
+      ],
+      [
+        1712905200,
+        535
+      ],
+      [
+        1712991600,
+        535
+      ],
+      [
+        1713078000,
+        535
+      ],
+      [
+        1713164400,
+        535
+      ],
+      [
+        1713250800,
+        535
+      ],
+      [
+        1713337200,
+        535
+      ],
+      [
+        1713423600,
+        248
+      ],
+      [
+        1713510000,
+        248
+      ],
+      [
+        1713596400,
+        248
+      ],
+      [
+        1713682800,
+        248
+      ],
+      [
+        1713769200,
+        248
+      ],
+      [
+        1713855600,
+        248
+      ],
+      [
+        1713942000,
+        242
+      ],
+      [
+        1714028400,
+        242
+      ],
+      [
+        1714114800,
+        242
+      ],
+      [
+        1714201200,
+        242
+      ],
+      [
+        1714287600,
+        242
+      ],
+      [
+        1714374000,
+        242
+      ],
+      [
+        1714460400,
+        242
+      ],
+      [
+        1714546800,
+        242
+      ],
+      [
+        1714633200,
+        243
+      ],
+      [
+        1714719600,
+        243
+      ],
+      [
+        1714806000,
+        278
+      ],
+      [
+        1714892400,
+        278
+      ]
+    ]
+  }
+}
