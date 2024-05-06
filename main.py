@@ -1,15 +1,14 @@
 import json
 import urllib.request
+from encryption_functions import get_key, decrypt_file
 
-def readConstants(file_name):
-    with open(file_name, 'r') as file:
-        data = json.load(file)
-
-    return data['ticket'], data['flight']
-
+KEY_FILE = 'key.encrypted'
 CONSTANTS_FILE = 'constants.env'
-TICKET_API_KEY, FLIGHT_API_KEY = readConstants(CONSTANTS_FILE)
+TICKET_API_KEY, FLIGHT_API_KEY = decrypt_file(CONSTANTS_FILE, get_key(KEY_FILE))
 
+print(TICKET_API_KEY)
+print(FLIGHT_API_KEY)
+exit()
 
 def main():
     origin = 'LAS'

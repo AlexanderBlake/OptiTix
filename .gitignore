@@ -1,2 +1,4 @@
 constants.env
+key.encrypted
 .DS_Store
+__pycache__
